@@ -1,0 +1,10 @@
+sqlalchemy
+python-dotenv
+requests
+pandas
+statsmodels
+prophet
+mlflow
+scikit-learn
+shap
+matplotlib

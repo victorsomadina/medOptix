@@ -1,0 +1,6 @@
+model/mlruns/
+model/__pycache__/
+model/sarimax_model.pkl
+venv/
+.DS_Store
+.env
