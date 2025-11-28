@@ -27,7 +27,6 @@ def api_call(endpoint, filename):
 
 
 api_data = {
-    # 'admissions/csv': 'main_admissions.csv',
     'daily-metrics/csv': 'main_daily_metrics.csv'
 }
 
